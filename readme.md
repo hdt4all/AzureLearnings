@@ -1,1 +1,1 @@
-azure learnings begin today.
+azure learnings forever.
