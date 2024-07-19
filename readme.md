@@ -1,1 +1,1 @@
-azure learnings forever.
+azure learnings forever!
