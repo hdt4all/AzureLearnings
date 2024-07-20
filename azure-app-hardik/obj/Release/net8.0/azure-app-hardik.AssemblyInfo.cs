@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-hardik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb4115aa28dac3710f1cbfb8df2bd91529a4d76d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc31ed32b18f6ff5ffdf9a03af3977b757b071c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-app-hardik")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-app-hardik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

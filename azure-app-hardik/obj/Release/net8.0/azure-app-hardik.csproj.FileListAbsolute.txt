@@ -29,3 +29,8 @@ C:\_work\Repos\AzureLearnings\azure-app-hardik\obj\Release\net8.0\refint\azure-a
 C:\_work\Repos\AzureLearnings\azure-app-hardik\obj\Release\net8.0\azure-app-hardik.pdb
 C:\_work\Repos\AzureLearnings\azure-app-hardik\obj\Release\net8.0\azure-app-hardik.genruntimeconfig.cache
 C:\_work\Repos\AzureLearnings\azure-app-hardik\obj\Release\net8.0\ref\azure-app-hardik.dll
+C:\_work\Repos\AzureLearnings\azure-app-hardik\bin\Release\net8.0\publish\web.config
+C:\_work\Repos\AzureLearnings\azure-app-hardik\bin\Release\net8.0\publish\appsettings.Development.json
+C:\_work\Repos\AzureLearnings\azure-app-hardik\bin\Release\net8.0\publish\appsettings.json
+C:\_work\Repos\AzureLearnings\azure-app-hardik\bin\Release\net8.0\publish\azure-app-hardik.deps.json
+C:\_work\Repos\AzureLearnings\azure-app-hardik\bin\Release\net8.0\publish\azure-app-hardik.runtimeconfig.json
