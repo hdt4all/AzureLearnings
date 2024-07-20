@@ -9,39 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = azure_app_hardik
 build_property.RootNamespace = azure_app_hardik
-build_property.ProjectDir = C:\_work\Repos\AzureLearnings\azure-app-hardik\
+build_property.ProjectDir = c:\_work\Repos\AzureLearnings\azure-app-hardik\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\_work\Repos\AzureLearnings\azure-app-hardik
+build_property.MSBuildProjectDirectory = c:\_work\Repos\AzureLearnings\azure-app-hardik
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/_work/Repos/AzureLearnings/azure-app-hardik/Pages/Error.cshtml]
+[c:/_work/Repos/AzureLearnings/azure-app-hardik/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/_work/Repos/AzureLearnings/azure-app-hardik/Pages/Index.cshtml]
+[c:/_work/Repos/AzureLearnings/azure-app-hardik/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/_work/Repos/AzureLearnings/azure-app-hardik/Pages/Privacy.cshtml]
+[c:/_work/Repos/AzureLearnings/azure-app-hardik/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/_work/Repos/AzureLearnings/azure-app-hardik/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[c:/_work/Repos/AzureLearnings/azure-app-hardik/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/_work/Repos/AzureLearnings/azure-app-hardik/Pages/_ViewImports.cshtml]
+[c:/_work/Repos/AzureLearnings/azure-app-hardik/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/_work/Repos/AzureLearnings/azure-app-hardik/Pages/_ViewStart.cshtml]
+[c:/_work/Repos/AzureLearnings/azure-app-hardik/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/_work/Repos/AzureLearnings/azure-app-hardik/Pages/Shared/_Layout.cshtml]
+[c:/_work/Repos/AzureLearnings/azure-app-hardik/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-i4vy3w3tz9
