@@ -16,12 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - powershell: |
-        Write-Host "Your parameter is now: $env:Param"
-        Write-Host "When outputting standard variable build id: $(Build.BuildId)"
-        Write-Host "When outputting standard variable build id via env: $env:BuildNumber"
-        Write-Host "The repo name is: $(Build.Repository.Name)"
-        Write-Host "The build definition name is: $(Build.DefinitionName)"
+      - run: echo "${GITHUB_WORKSPACE}"
 
       - name: Set up .NET Core
         uses: actions/setup-dotnet@v4
