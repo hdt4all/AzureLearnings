@@ -1,13 +1,3 @@
-azure-app-hardik/bin/Debug/net8.0/azure-app-hardik.dll
-azure-app-hardik/bin/Debug/net8.0/azure-app-hardik.exe
-azure-app-hardik/bin/Debug/net8.0/azure-app-hardik.pdb
-azure-app-hardik/obj/azure-app-hardik.csproj.nuget.dgspec.json
-azure-app-hardik/obj/project.nuget.cache
-azure-app-hardik/obj/Debug/net8.0/apphost.exe
-azure-app-hardik/obj/Debug/net8.0/azure-app-hardik.AssemblyInfo.cs
-azure-app-hardik/obj/Debug/net8.0/azure-app-hardik.AssemblyInfoInputs.cache
-azure-app-hardik/obj/Debug/net8.0/azure-app-hardik.dll
-azure-app-hardik/obj/Debug/net8.0/azure-app-hardik.pdb
-azure-app-hardik/obj/Debug/net8.0/azure-app-hardik.sourcelink.json
-azure-app-hardik/obj/Debug/net8.0/ref/azure-app-hardik.dll
-azure-app-hardik/obj/Debug/net8.0/refint/azure-app-hardik.dll
+publish/
+bin/
+obj/
